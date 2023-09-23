@@ -406,6 +406,7 @@ label.margin-toggle:not(.sidenote-number) {
     height: 100%;
 }
 
+
 @media (max-width: 760px) {
     body {
         width: 84%;
@@ -483,4 +484,6 @@ label.margin-toggle:not(.sidenote-number) {
     img {
         width: 100%;
     }
+    
+
 }
